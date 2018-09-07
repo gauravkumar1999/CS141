@@ -9,7 +9,7 @@ int main(){
 	cin >>n;
 	//loop
 	for(i=1;i<=n;i++){
-		//cout "+ " n times in the ith row
+		//cout "*" n times in the ith row
 		for(int j=0;j<n;j++){
 			cout <<"* ";
 			}
